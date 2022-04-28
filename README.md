@@ -27,7 +27,8 @@ Here are some ideas to get you started:
  #### 👆 我会这些
  <center class="half>
 
- ![vue2.x](https://img.shields.io/badge/vue2.x-brightgreen "vue2.x")![javascript](https://img.shields.io/badge/javascript-yellow "js")
+ ![vue2.x](https://img.shields.io/badge/vue2.x-brightgreen "vue2.x")
+ ![javascript](https://img.shields.io/badge/javascript-yellow "js")
  ![es6](https://img.shields.io/badge/es6-ff69b4 "es6")
  ![vsc](https://img.shields.io/badge/vscode-blue "vsc")
  ![git](https://img.shields.io/badge/git-red "git")
