@@ -22,12 +22,21 @@ Here are some ideas to get you started:
 - 💖 L&Z I love you three thousand
 - 🏁 真的不知道说什么, 就这样吧
 
-https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>
+ [![biubiuliu's GitHub stats](https://github-readme-stats.vercel.app/api?username=biubiuliu&show_icons=true)](https://github.com/biubiuliu)
 
  #### 👆 我会这些
- ![沙漠中的岩石图片](https://img.shields.io/badge/vue-2.x-green "Shiprock")
- ![沙漠中的岩石图片](https://img.shields.io/badge/vue-2.x-green "Shiprock")
- ![沙漠中的岩石图片](https://img.shields.io/badge/vue-2.x-green "Shiprock")
+ <center class="half>
+
+ ![vue2.x](https://img.shields.io/badge/vue2.x-brightgreen "vue2.x")
+ ![javascript](https://img.shields.io/badge/javascript-yellow "js")
+ ![es6](https://img.shields.io/badge/es6-ff69b4 "es6")
+ ![vsc](https://img.shields.io/badge/vscode-blue "vsc")
+ ![git](https://img.shields.io/badge/git-red "git")
+ ![hbuild](https://img.shields.io/badge/hbuild-success "hbuild")
+ ![wx开发工具](https://img.shields.io/badge/wx开发工具-inactive "hbuild")
+ ![node](https://img.shields.io/badge/node-success "node")
+
+ </center>
 <!--
 <img src="./assets/vuejs.png" alt="vuejs" title="vuejs"  width="6%">
 <img src="./assets/vsc.png" alt="vsc" title="vsc"  width="6%">
