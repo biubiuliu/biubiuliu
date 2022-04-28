@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 💖 L&Z I love you three thousand
 - 🏁 真的不知道说什么, 就这样吧
 
-#### 👆 我会这些
+<!-- #### 👆 我会这些
 
 
 <img src="./assets/vuejs.png" alt="vuejs" title="vuejs"  width="6%">
@@ -31,14 +31,4 @@ Here are some ideas to get you started:
 <img src="./assets/es6.png" alt="es6" title="es6"  width="6%">
 <img src="./assets/git.png" alt="git" title="git"  width="6%">
 <img src="./assets/hubildx.png" alt="hubildx" title="hubildx"  width="6%">
-<img src="./assets/node.jpg" alt="node" title="node"  width="6%">
-
-<figure class="half">
-  <img src="./assets/vuejs.png" alt="vuejs" title="vuejs"  width="6%">
-  <img src="./assets/vsc.png" alt="vsc" title="vsc"  width="6%">
-</figure>
-<figure class="third">
-  <img src="./assets/vuejs.png" alt="vuejs" title="vuejs"  width="6%">
-  <img src="./assets/hubildx.png" alt="hubildx" title="hubildx"  width="6%">
-  <img src="./assets/node.jpg" alt="node" title="node"  width="6%">
-</figure>
+<img src="./assets/node.jpg" alt="node" title="node"  width="6%"> -->
