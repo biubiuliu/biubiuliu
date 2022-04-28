@@ -22,9 +22,13 @@ Here are some ideas to get you started:
 - 💖 L&Z I love you three thousand
 - 🏁 真的不知道说什么, 就这样吧
 
-<!-- #### 👆 我会这些
+https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>
 
-
+ #### 👆 我会这些
+ ![沙漠中的岩石图片](https://img.shields.io/badge/vue-2.x-green "Shiprock")
+ ![沙漠中的岩石图片](https://img.shields.io/badge/vue-2.x-green "Shiprock")
+ ![沙漠中的岩石图片](https://img.shields.io/badge/vue-2.x-green "Shiprock")
+<!--
 <img src="./assets/vuejs.png" alt="vuejs" title="vuejs"  width="6%">
 <img src="./assets/vsc.png" alt="vsc" title="vsc"  width="6%">
 <img src="./assets/wxcode.png" alt="wxcode" title="wxcode"  width="6%">
