@@ -37,11 +37,11 @@ Here are some ideas to get you started:
  ![node](https://img.shields.io/badge/node-success "node")
 
  </center>
-<!--
-<img src="./assets/vuejs.png" alt="vuejs" title="vuejs"  width="6%">
-<img src="./assets/vsc.png" alt="vsc" title="vsc"  width="6%">
+
+<img src="./assets/vuejs.png" display="inline-block" alt="vuejs" title="vuejs"  width="6%">
+<img src="./assets/vsc.png"  display="inline-block" alt="vsc" title="vsc"  width="6%">
 <img src="./assets/wxcode.png" alt="wxcode" title="wxcode"  width="6%">
 <img src="./assets/es6.png" alt="es6" title="es6"  width="6%">
 <img src="./assets/git.png" alt="git" title="git"  width="6%">
 <img src="./assets/hubildx.png" alt="hubildx" title="hubildx"  width="6%">
-<img src="./assets/node.jpg" alt="node" title="node"  width="6%"> -->
+<img src="./assets/node.jpg" alt="node" title="node"  width="6%">
