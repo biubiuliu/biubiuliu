@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 - 💖 L&Z I love you three thousand
 - 🏁 真的不知道说什么, 就这样吧
 
- [![biubiuliu's GitHub stats](https://github-readme-stats.vercel.app/api?username=biubiuliu&show_icons=true)](https://github.com/biubiuliu)
+ [![biubiuliu's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=biubiuliu&show_icons=true&layout=compact)](https://github.com/biubiuliu)
 
- #### 👆 我会这些
+ <!-- #### 👆 我会这些
  <center class="half>
 
  ![vue2.x](https://img.shields.io/badge/vue2.x-brightgreen "vue2.x")
@@ -44,4 +44,4 @@ Here are some ideas to get you started:
 <img src="./assets/es6.png" alt="es6" title="es6"  width="6%">
 <img src="./assets/git.png" alt="git" title="git"  width="6%">
 <img src="./assets/hubildx.png" alt="hubildx" title="hubildx"  width="6%">
-<img src="./assets/node.jpg" alt="node" title="node"  width="6%">
+<img src="./assets/node.jpg" alt="node" title="node"  width="6%"> -->
