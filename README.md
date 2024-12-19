@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 #### 😄 说点什么
 - 🏢 目前在深圳
 - ⏰ 6点起床计划... (2022 0428)
-- 💖 L&Z I love you three thousand
-- 🏁 真的不知道说什么, 就这样吧
+- 💖 july is a baby name
+- 🏁 未完待续...
 
  [![biubiuliu's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=biubiuliu&show_icons=true&layout=compact)](https://github.com/biubiuliu)
 
