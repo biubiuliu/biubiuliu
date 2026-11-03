@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 <img src="./assets/heard.jpg" width="100%">
 
 #### 😄 说点什么
-- 🏢 目前在深圳
-- ⏰ 6点起床计划... (2022 0428) (打脸, 嘴硬)
+- 🏢 sz
+- ⏰ 😵‍💫
 - 💖 july
 - 🏁 未完待续...
 
